@@ -61,9 +61,9 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 * [Fabrício Veronez (Infra como Código, DevOps)](https://www.youtube.com/c/FabricioVeronez)
 * [LinuxTips com Dio (DevOps, Linux, SRE)](https://www.youtube.com/c/LinuxTips)
-* [Canal AWS Brasil](https://www.youtube.com/c/AWSBrasil)
+* [Site DevOps/SRE - Roadmap e Documentação](https://roadmap.sh/devops)
 * [Canal Azure na Prática](https://www.youtube.com/c/Azurenapratica)
-* [Google Cloud Tech](https://www.youtube.com/c/googlecloudplatform)
+* [Google Cloud Tech](https://cloud.google.com/learn)
 
 > "Automatizar é libertar o time para inovar. Observar é garantir que o sistema fale com você antes de quebrar."
 
