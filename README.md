@@ -11,15 +11,16 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 * Infra como Código: Terraform, OpenTF, ARM Templates
 * Containers: Docker, Kubernetes (EKS, AKS)
 * CI/CD: GitHub Actions, Azure DevOps, Bitbucket Pipelines
-* Observabilidade: Prometheus, Grafana, CloudWatch
-* Boas práticas de FinOps, segurança e cultura DevOps
+* Observabilidade: Prometheus, Grafana, CloudWatch, Datadog
+* Shell scripting (Bash), versionamento com Git, cultura DevOps, FinOps e automação de ambientes
 
 ---
 
 ### 🧰 Tecnologias e Ferramentas
 
-![GO](https://img.shields.io/badge/GO-%2300ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SHELL](https://img.shields.io/badge/Shell_Script-%23121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![BASH](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![KUBERNETES](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![TERRAFORM](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge\&logo=terraform\&logoColor=white)
@@ -31,6 +32,7 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 ![PROMETHEUS](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![GRAFANA](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![CLOUDWATCH](https://img.shields.io/badge/CloudWatch-%23FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![DATADOG](https://img.shields.io/badge/Datadog-%234C38E4?style=for-the-badge\&logo=datadog\&logoColor=white)
 
 ---
 
@@ -52,6 +54,16 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 ### 📫 Vamos nos conectar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samuelb-dz-tech)
+
+---
+
+### 🔗 Canais e Referências que me inspiram
+
+* [Fabrício Veronez (Infra como Código, DevOps)](https://www.youtube.com/c/FabricioVeronez)
+* [LinuxTips com Dio (DevOps, Linux, SRE)](https://www.youtube.com/c/LinuxTips)
+* [Canal AWS Brasil](https://www.youtube.com/c/AWSBrasil)
+* [Canal Azure na Prática](https://www.youtube.com/c/Azurenapratica)
+* [Google Cloud Tech](https://www.youtube.com/c/googlecloudplatform)
 
 > "Automatizar é libertar o time para inovar. Observar é garantir que o sistema fale com você antes de quebrar."
 
