@@ -11,7 +11,7 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 * Infra como Código: Terraform, OpenTF, ARM Templates
 * Containers: Docker, Kubernetes (EKS, AKS)
 * CI/CD: GitHub Actions, Azure DevOps, Bitbucket Pipelines
-* Observabilidade: Prometheus, Grafana, CloudWatch, Datadog
+* Observabilidade: Prometheus, Grafana, CloudWatch, Datadog, New Relic, Opentelemetry, Uptime Kuma
 * Shell scripting (Bash), versionamento com Git, cultura DevOps, FinOps e automação de ambientes
 
 ---
@@ -33,6 +33,9 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 ![GRAFANA](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
 ![CLOUDWATCH](https://img.shields.io/badge/CloudWatch-%23FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![DATADOG](https://img.shields.io/badge/Datadog-%234C38E4?style=for-the-badge\&logo=datadog\&logoColor=white)
+![NEWRELIC](https://img.shields.io/badge/NewRelic-%2300B3E6?style=for-the-badge\&logo=newrelic\&logoColor=white)
+![OPENTELEMETRY](https://img.shields.io/badge/OpenTelemetry-%23FCE303?style=for-the-badge\&logo=opentelemetry\&logoColor=black)
+![UPTIMEKUMA](https://img.shields.io/badge/Uptime_Kuma-%23000000?style=for-the-badge\&logoColor=white)
 
 ---
 
