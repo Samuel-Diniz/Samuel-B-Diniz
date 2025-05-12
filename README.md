@@ -7,6 +7,8 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ---
 
+
+
 ### ✨ Experiência com
 
 | Categoria | Ferramentas |
@@ -22,12 +24,12 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 📄 Licenças e Certificações
 
-- <img src="https://img.shields.io/badge/-Alura-0D1117?logo=alura&logoColor=white" height="20"/> Formação DevOps Engineer
-- <img src="https://img.shields.io/badge/-FIAP-0D1117?logo=fiap&logoColor=white" height="20"/> Linux Fundamentos
-- <img src="https://img.shields.io/badge/-4Linux-0D1117?logo=linux&logoColor=white" height="20"/> Kubernetes Avançado
-- <img src="https://img.shields.io/badge/-4Linux-0D1117?logo=docker&logoColor=white" height="20"/> Docker Containers
-- <img src="https://img.shields.io/badge/-Impacta-0D1117?logo=azuredevops&logoColor=white" height="20"/> DevOps Professional
-- <img src="https://img.shields.io/badge/-4Linux-0D1117?logo=linuxfoundation&logoColor=white" height="20"/> DevOps Essentials
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/alura.png" width="20"/> Formação DevOps Engineer
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/fiap.png" width="20"/> Linux Fundamentos
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/4linux.png" width="20"/> Kubernetes Avançado
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/4linux.png" width="20"/> Docker Containers
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/impacta.png" width="20"/> DevOps Professional
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/4linux.png" width="20"/> DevOps Essentials
 
 ---
 
@@ -85,11 +87,11 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 🔗 Canais e Referências que me inspiram
 
-- 📺 [Fabrício Veronez (Infra como Código, DevOps)](https://www.youtube.com/c/FabricioVeronez)
-- 📺 [LinuxTips com Dio (DevOps, Linux, SRE)](https://www.youtube.com/c/LinuxTips)
-- 📺 [Canal Azure na Prática](https://www.youtube.com/c/Azurenapratica)
-- 🌐 [Site DevOps/SRE - Roadmap e Documentação](https://roadmap.sh/devops)
-- 🌐 [Google Cloud Tech](https://cloud.google.com/learn)
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/youtube.png" width="16"/> [Fabrício Veronez (Infra como Código, DevOps)](https://www.youtube.com/c/FabricioVeronez)
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/youtube.png" width="16"/> [LinuxTips com Dio (DevOps, Linux, SRE)](https://www.youtube.com/c/LinuxTips)
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/youtube.png" width="16"/> [Canal Azure na Prática](https://www.youtube.com/c/Azurenapratica)
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/web.png" width="16"/> [Site DevOps/SRE - Roadmap e Documentação](https://roadmap.sh/devops)
+- <img src="https://raw.githubusercontent.com/Samuel-Diniz/assets/main/web.png" width="16"/> [Google Cloud Tech](https://cloud.google.com/learn)
 
 > _"Automatizar é libertar o time para inovar. Observar é garantir que o sistema fale com você antes de quebrar."_
 
