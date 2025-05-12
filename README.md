@@ -20,7 +20,18 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 📄 Licenças e Certificações
+
+- ![Alura](https://img.shields.io/badge/Alura-DevOps%20Engineer-blue?logo=alura&logoColor=white) Formação DevOps Engineer
+- ![FIAP](https://img.shields.io/badge/FIAP-Linux%20Fundamentos-black?logo=fiap&logoColor=white) Linux Fundamentos
+- ![4Linux](https://img.shields.io/badge/4Linux-Kubernetes%20Avançado-0D1117?logo=linux&logoColor=white) Kubernetes
+- ![4Linux](https://img.shields.io/badge/4Linux-Docker%20Containers-0D1117?logo=docker&logoColor=white) Docker
+- ![Impacta](https://img.shields.io/badge/Impacta-DevOps%20Professional-007ACC?logo=azuredevops&logoColor=white) DevOps Professional
+- ![4Linux](https://img.shields.io/badge/4Linux-DevOps%20Essentials-0D1117?logo=linuxfoundation&logoColor=white) DevOps Essentials
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -59,7 +70,6 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 ---
 
 <h3 align="left">📊 Estatísticas do GitHub</h3>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelb-dz-tech&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelb-dz-tech&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
@@ -69,7 +79,7 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 📫 Vamos nos conectar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelb-dz-tech)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelb-dz-tech)
 
 ---
 
