@@ -49,8 +49,8 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 📈 Estatísticas do GitHub
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-Diniz\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Diniz\&layout=compact\&theme=tokyonight)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelb-dz-tech&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelb-dz-tech&layout=compact&theme=tokyonight)
 
 ---
 
