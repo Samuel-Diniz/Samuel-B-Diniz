@@ -22,12 +22,12 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 📄 Licenças e Certificações
 
-- ![Alura](https://img.shields.io/badge/Alura-DevOps%20Engineer-blue?logo=alura&logoColor=white) Formação DevOps Engineer
-- ![FIAP](https://img.shields.io/badge/FIAP-Linux%20Fundamentos-black?logo=fiap&logoColor=white) Linux Fundamentos
-- ![4Linux](https://img.shields.io/badge/4Linux-Kubernetes%20Avançado-0D1117?logo=linux&logoColor=white) Kubernetes
-- ![4Linux](https://img.shields.io/badge/4Linux-Docker%20Containers-0D1117?logo=docker&logoColor=white) Docker
-- ![Impacta](https://img.shields.io/badge/Impacta-DevOps%20Professional-007ACC?logo=azuredevops&logoColor=white) DevOps Professional
-- ![4Linux](https://img.shields.io/badge/4Linux-DevOps%20Essentials-0D1117?logo=linuxfoundation&logoColor=white) DevOps Essentials
+- <img src="https://img.shields.io/badge/-Alura-0D1117?logo=alura&logoColor=white" height="20"/> Formação DevOps Engineer
+- <img src="https://img.shields.io/badge/-FIAP-0D1117?logo=fiap&logoColor=white" height="20"/> Linux Fundamentos
+- <img src="https://img.shields.io/badge/-4Linux-0D1117?logo=linux&logoColor=white" height="20"/> Kubernetes Avançado
+- <img src="https://img.shields.io/badge/-4Linux-0D1117?logo=docker&logoColor=white" height="20"/> Docker Containers
+- <img src="https://img.shields.io/badge/-Impacta-0D1117?logo=azuredevops&logoColor=white" height="20"/> DevOps Professional
+- <img src="https://img.shields.io/badge/-4Linux-0D1117?logo=linuxfoundation&logoColor=white" height="20"/> DevOps Essentials
 
 ---
 
@@ -85,11 +85,11 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 🔗 Canais e Referências que me inspiram
 
-* [Fabrício Veronez (Infra como Código, DevOps)](https://www.youtube.com/c/FabricioVeronez)  
-* [LinuxTips com Dio (DevOps, Linux, SRE)](https://www.youtube.com/c/LinuxTips)  
-* [Site DevOps/SRE - Roadmap e Documentação](https://roadmap.sh/devops)  
-* [Canal Azure na Prática](https://www.youtube.com/c/Azurenapratica)  
-* [Google Cloud Tech](https://cloud.google.com/learn)
+- 📺 [Fabrício Veronez (Infra como Código, DevOps)](https://www.youtube.com/c/FabricioVeronez)
+- 📺 [LinuxTips com Dio (DevOps, Linux, SRE)](https://www.youtube.com/c/LinuxTips)
+- 📺 [Canal Azure na Prática](https://www.youtube.com/c/Azurenapratica)
+- 🌐 [Site DevOps/SRE - Roadmap e Documentação](https://roadmap.sh/devops)
+- 🌐 [Google Cloud Tech](https://cloud.google.com/learn)
 
 > _"Automatizar é libertar o time para inovar. Observar é garantir que o sistema fale com você antes de quebrar."_
 
