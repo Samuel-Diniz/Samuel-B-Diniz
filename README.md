@@ -9,14 +9,14 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### ✨ Experiência com
 
-| Categoria        | Ferramentas |
-|------------------|-------------|
-| ![Cloud](https://img.shields.io/badge/Cloud-AWS/Azure/GCP-232F3E?style=flat&logo=amazonaws&logoColor=white) | AWS, Azure, GCP |
-| ![IaC](https://img.shields.io/badge/IaC-Terraform/OpenTofu/ARM-7B42BC?style=flat&logo=terraform&logoColor=white) | Terraform, OpenTofu, ARM Templates |
-| ![Containers](https://img.shields.io/badge/Containers-Docker/Kubernetes-2496ED?style=flat&logo=docker&logoColor=white) | Docker, Kubernetes (EKS, AKS) |
-| ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions/Azure%20DevOps/Bitbucket-2088FF?style=flat&logo=githubactions&logoColor=white) | GitHub Actions, Azure DevOps, Bitbucket Pipelines |
-| ![Observabilidade](https://img.shields.io/badge/Observabilidade-Prometheus/Grafana/etc.-F46800?style=flat&logo=grafana&logoColor=white) | Prometheus, Grafana, CloudWatch, Datadog, New Relic, OpenTelemetry, Uptime Kuma |
-| ![Outros](https://img.shields.io/badge/Scripts/Git/DevOps-Automação-121011?style=flat&logo=gnu-bash&logoColor=white) | Shell scripting (Bash), versionamento com Git, cultura DevOps, FinOps e automação de ambientes |
+| Categoria | Ferramentas |
+|-----------|-------------|
+| <img src="https://img.shields.io/badge/-Cloud-444?logo=amazonaws&logoColor=white" /> | AWS, Azure, GCP |
+| <img src="https://img.shields.io/badge/-IaC-444?logo=terraform&logoColor=white" /> | Terraform, OpenTofu, ARM Templates |
+| <img src="https://img.shields.io/badge/-Containers-444?logo=docker&logoColor=white" /> | Docker, Kubernetes (EKS, AKS) |
+| <img src="https://img.shields.io/badge/-CI/CD-444?logo=githubactions&logoColor=white" /> | GitHub Actions, GitLab, Azure DevOps, Bitbucket Pipelines |
+| <img src="https://img.shields.io/badge/-Observabilidade-444?logo=grafana&logoColor=white" /> | Prometheus, Grafana, CloudWatch, Datadog, New Relic, OpenTelemetry, Uptime Kuma |
+| <img src="https://img.shields.io/badge/-Scripts/Git/DevOps-444?logo=gnubash&logoColor=white" /> | Shell scripting (Bash), versionamento com Git, cultura DevOps, FinOps e automação de ambientes |
 
 ---
 
