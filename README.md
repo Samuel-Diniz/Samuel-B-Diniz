@@ -24,12 +24,12 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 📄 Licenças e Certificações
 
-- **Alura** Formação DevOps Engineer
-- **FIAP** Linux Fundamentos
-- **4Linux** Kubernetes Avançado
-- **4Linux** Docker Containers
-- **Impacta** DevOps Professional
-- **4Linux** DevOps Essentials
+- Alura ![DevOps Engineer](https://img.shields.io/badge/-DevOps%20Engineer-0D1117?logo=devdotto&logoColor=white)
+- FIAP ![Linux Fundamentos](https://img.shields.io/badge/-Linux%20Fundamentos-0D1117?logo=linux&logoColor=white)
+- 4Linux ![Kubernetes Avançado](https://img.shields.io/badge/-Kubernetes%20Avançado-0D1117?logo=kubernetes&logoColor=white)
+- 4Linux ![Docker Containers](https://img.shields.io/badge/-Docker%20Containers-0D1117?logo=docker&logoColor=white)
+- Impacta ![DevOps Professional](https://img.shields.io/badge/-DevOps%20Professional-0D1117?logo=microsoftazure&logoColor=white)
+- 4Linux ![DevOps Essentials](https://img.shields.io/badge/-DevOps%20Essentials-0D1117?logo=linuxfoundation&logoColor=white)
 
 ---
 
