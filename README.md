@@ -24,12 +24,12 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 📄 Licenças e Certificações
 
-- ![Alura](https://img.shields.io/badge/-Alura-0D1117?logo=apacherocketmq&logoColor=white) Formação DevOps Engineer
-- ![FIAP](https://img.shields.io/badge/-FIAP-0D1117?logo=fireship&logoColor=white) Linux Fundamentos
-- ![4Linux](https://img.shields.io/badge/-4Linux-0D1117?logo=linux&logoColor=white) Kubernetes Avançado
-- ![4Linux](https://img.shields.io/badge/-4Linux-0D1117?logo=docker&logoColor=white) Docker Containers
-- ![Impacta](https://img.shields.io/badge/-Impacta-0D1117?logo=microsoftazure&logoColor=white) DevOps Professional
-- ![4Linux](https://img.shields.io/badge/-4Linux-0D1117?logo=linuxfoundation&logoColor=white) DevOps Essentials
+- **Alura** Formação DevOps Engineer
+- **FIAP** Linux Fundamentos
+- **4Linux** Kubernetes Avançado
+- **4Linux** Docker Containers
+- **Impacta** DevOps Professional
+- **4Linux** DevOps Essentials
 
 ---
 
@@ -87,11 +87,11 @@ Sou apaixonado por automação, confiabilidade e performance. Busco aplicar boas
 
 ### 🔗 Canais e Referências que me inspiram
 
-- ![YouTube](https://img.shields.io/badge/-Fabrício%20Veronez-0D1117?logo=youtube&logoColor=red&label=Fabrício%20Veronez) [(Infra como Código, DevOps)](https://www.youtube.com/c/FabricioVeronez)
-- ![YouTube](https://img.shields.io/badge/-LinuxTips%20com%20Dio-0D1117?logo=youtube&logoColor=red&label=LinuxTips%20com%20Dio) [(DevOps, Linux, SRE)](https://www.youtube.com/c/LinuxTips)
-- ![YouTube](https://img.shields.io/badge/-Azure%20na%20Prática-0D1117?logo=youtube&logoColor=red&label=Azure%20na%20Prática) [Canal Azure na Prática](https://www.youtube.com/c/Azurenapratica)
-- ![Site](https://img.shields.io/badge/-Roadmap.sh-0D1117?logo=vercel&logoColor=white&label=Roadmap.sh) [Site DevOps/SRE - Roadmap e Documentação](https://roadmap.sh/devops)
-- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud%20Tech-0D1117?logo=googlecloud&logoColor=white&label=Google%20Cloud%20Tech) [Google Cloud Tech](https://cloud.google.com/learn)
+- [![Fabrício Veronez](https://img.shields.io/badge/-Fabrício%20Veronez-0D1117?logo=youtube&logoColor=red)](https://www.youtube.com/c/FabricioVeronez)
+- [![LinuxTips com Dio](https://img.shields.io/badge/-LinuxTips%20com%20Dio-0D1117?logo=youtube&logoColor=red)](https://www.youtube.com/c/LinuxTips)
+- [![Azure na Prática](https://img.shields.io/badge/-Azure%20na%20Prática-0D1117?logo=youtube&logoColor=red)](https://www.youtube.com/c/Azurenapratica)
+- [![Roadmap.sh](https://img.shields.io/badge/-Roadmap.sh-0D1117?logo=vercel&logoColor=white)](https://roadmap.sh/devops)
+- [![Google Cloud Tech](https://img.shields.io/badge/-Google%20Cloud%20Tech-0D1117?logo=googlecloud&logoColor=white)](https://cloud.google.com/learn)
 
 > _"Automatizar é libertar o time para inovar. Observar é garantir que o sistema fale com você antes de quebrar."_
 
